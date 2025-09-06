@@ -1,0 +1,2 @@
+# baselaravel
+base laravel
